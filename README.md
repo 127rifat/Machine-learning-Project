@@ -67,7 +67,7 @@ Best Model: Random Forest + PCA (R² = 0.9808, MAE = 0.1822)
 
 1. Clone repo:
 ```bash
-git clone https://github.com/127rifat/Machine-learning-Project.git
+git clone https://github.com/127rifat/Machine-learning-Project.git](https://github.com/127rifat/Machine-learning-Project.git
 cd hydrogel-insulation-ml
 ```
 
